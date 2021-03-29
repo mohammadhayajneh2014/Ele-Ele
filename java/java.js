@@ -23,7 +23,7 @@
  
 //document.write('<h3>'+age+'</h3>');
 
-alert("your password is mohammad");
+/* alert("your password is mohammad");
 var Password = prompt('git your password');
 var password = 'mohammad';
 while(Password !== password){ 
@@ -61,3 +61,4 @@ for(var i = 1 ; i <=Elemants; i++ ){
 console.log(image);
 document.write(image);
 
+*/
